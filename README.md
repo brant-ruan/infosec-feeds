@@ -1,5 +1,6 @@
 # infosec-feeds
-collected RSS feeds for information security
+
+This repository is used to share my collected RSS feeds for information security. Feel free to add these feeds into your RSS readers if helpful. It would be appreciated if you could also share good feeds or point out out-of-date feeds.
 
 ```xml
 <?xml version="1.1" encoding="UTF-8"?>
